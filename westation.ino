@@ -56,7 +56,7 @@
 // ═══════════════════════════════════════════════════════════════
 //  USER CONFIG  ← edit these
 // ═══════════════════════════════════════════════════════════════
-const char* OWM_API_KEY  = "8cc8f203e06711789297270bfc14ac05";
+const char* OWM_API_KEY  = "";
 const char* OWM_CITY     = "Ennis,IE";
 const char* OWM_UNITS   = "metric";      // "metric" or "imperial"
 
